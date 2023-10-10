@@ -20,9 +20,9 @@ public class DoWhileCuti4{
                 System.out.println(" Sisa jatah cuti: " +jatahCuti);
             } else {
                 System.out.println(" Sisa jatah cuti anda tidak mencukupi");
-                break;
+                System.out.println(" Silahkan masukkan hari yang sesuai.");;
             } 
         }
-    } while (jatahCuti> 0);
+    } while (true);
 }
 }
