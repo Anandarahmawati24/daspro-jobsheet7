@@ -22,6 +22,8 @@ public class DoWhileCuti4{
                 System.out.println(" Sisa jatah cuti anda tidak mencukupi");
                 System.out.println(" Silahkan masukkan hari yang sesuai.");;
             } 
+        } else if (konfirmasi.equalsIgnoreCase("t")){
+            break;
         }
     } while (true);
 }
