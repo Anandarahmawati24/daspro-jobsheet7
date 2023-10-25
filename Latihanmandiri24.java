@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Latihanmandiri24{
     public static void main(String[] args) {
         Scanner input04 = new Scanner(System.in);
-        int jumlahMahasiswa= 30, jumlahPerempuan = 0;
+        int jumlahMahasiswa= 2, jumlahPerempuan=0 ;
         char jenisKelamin;
         String nama;
 
