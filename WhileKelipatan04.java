@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class WhileKelipatan4 {
+public class WhileKelipatan04 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
